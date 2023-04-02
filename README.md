@@ -9,12 +9,12 @@ We have collected various information from the Google Play Store using a google 
 
 
 ## How To Use
-1. pip install -r REQUIREMENTS.txt
+- pip install -r REQUIREMENTS.txt
 
-2. Open Jupyter Notebook
+- Open Jupyter Notebook
 
-3. Run Driver_1.ipynb
+- Run Driver_1.ipynb
 
-4. Run Driver_2.ipynb
+- Run Driver_2.ipynb
 
-5. Run Driver_3.ipynb
+- Run Driver_3.ipynb
